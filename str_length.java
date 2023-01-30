@@ -9,7 +9,7 @@ public class str_length {
     System.out.print("Enter a string: ");  
     String str = sc.nextLine();  
 
-    int count = str.length();
+    int count = str.length()
 
     System.out.println("The length of string is " + count);
     System.out.print("The entered string is " + str);
